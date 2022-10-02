@@ -1,0 +1,44 @@
+.s-brandbook.brandbook-home {
+
+  .s-brandbook__nav {
+    padding-bottom : 0;
+  }
+
+}
+
+.s-brandbook__list.homepage-list {
+
+  .s-brandbook__list-item {
+    display : flex;
+    opacity : 1;
+  }
+
+  .s-brandbook__list-item_number {
+    @include font-family(secondary);
+    width : 34px;
+    @include font(s-large, 40, 700);
+    color : palette(primary-blue);
+  }
+
+  .s-brandbook__list-item_content-box {
+    width : calc(100% - 34px);
+  }
+
+  .s-brandbook__list-item_content-title {
+    a {
+      font-family: "Noto Serif JP", serif;
+      @include font(s-large, 40, 700);
+      color : palette(primary-dark-blue);
+      text-decoration : none;
+    }
+  }
+
+  .s-brandbook__list-item_content {
+    a {
+      display : block;
+      margin-top : 20px;
+      opacity : 0.7;
+    }
+  }
+
+}

@@ -1,0 +1,111 @@
+.o-notice-board {
+    color: #fff;
+    padding-bottom: 80px;
+}
+.o-notice-board__wrapper {
+  padding: 90px 0 80px;
+  position: relative;
+  @include mq($max: $sm) {
+    padding-top: 30px;
+  }
+  &:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    clip-path: ellipse(60% 100% at top);
+    background: palette(primary-green);
+    @include mq($max: $xl) {
+      clip-path: ellipse(70% 100% at top);
+    }
+    @include mq($max: $lg) {
+      clip-path: ellipse(75% 100% at top);
+    }
+    @include mq($max: $md) {
+      clip-path: ellipse(85% 100% at top);
+    }
+    @include mq($max: $sm) {
+      padding-top: 30px;
+      clip-path: ellipse(160% 100% at top);
+    }
+  }
+}
+.o-notice-board__container {
+  position: relative;
+  z-index: 3;
+}
+.o-notice-board__banner {
+  position: relative;
+  padding: 0 0 100px;
+  clip-path: ellipse(80% 100% at top);
+  background: palette(secondary-green);
+  @include mq($max: $xl) {
+    padding-bottom: 60px;
+    clip-path: ellipse(90% 100% at top);
+  }
+  @include mq($max: $lg) {
+    clip-path: ellipse(95% 100% at top);
+  }
+  @include mq($max: $md) {
+    clip-path: ellipse(105% 100% at top);
+  }
+  @include mq($max: $sm) {
+    clip-path: ellipse(180% 100% at top);
+  }
+}
+
+.o-notice-board__title {
+  @include font(92, 120, 900);
+  margin-bottom: 53px;
+  @include mq($max: $xl) {
+    @include font(x1-large, 78, 900);
+  }
+  @include mq($max: $sm) {
+    margin-bottom: 30px;
+    font-size: 56px;
+  }
+
+}
+
+.o-notice-board__description {
+  margin-top: 50px;
+  p {
+    opacity: 1;
+  }
+
+  :last-child {
+    margin-bottom: 0;
+  }
+  @include mq($max: $sm) {
+    margin-top: 45px;
+  }
+}
+
+.o-notice-board__img {
+  position: absolute;
+  left: 0;
+  top: -70px;
+  z-index: 2;
+  @include mq($max: $xl) {
+    width: 20%;
+    top: 0;
+  }
+  @include mq($max: $sm) {
+    width: 145px;
+    top: 45px;
+    left: -15px;
+  }
+  &:nth-child(2) {
+    left: auto;
+    right: 0;
+    top: 40px;
+    @include mq($max: $sm) {
+      right: -50px;
+      top: 90px;
+      width: 135px;
+    }
+  }
+}
+
