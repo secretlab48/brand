@@ -269,15 +269,13 @@ get_header();
                 <div class="s-brandbook__content">
                     <h2 class="s-brandbook__title" id="tone-of-voice">Tone of Voice</h2>
                     <div class="s-brandbook__content-box">
-                        <p class="s-brandbook__title-secondary">Four dimensions of TOV</p>
+                        <p class="s-brandbook__title-secondary">Four dimensions of tone of voice</p>
                         <div class="row s-brandbook__content-voice">
                             <div class="col-12 col-lg-6 text-lg-right">
                                 <p class="bolder-text">Funny vs. serious </p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>We radiate authority and show that we take the client seriously. We don't want to be
-                                    funny or trivialize mental challenges through the use of humor. We can, however, use
-                                    (word) jokes to keep the content accessible, positive, and light where needed.</p>
+                                <p>We radiate authority and show that we take people seriously. We don't trivialise mental challenges through the use of humour. We can, however, use (word) jokes to keep the content accessible, positive, and light. </p>
                             </div>
                         </div>
                         <div class="row s-brandbook__content-voice">
@@ -285,8 +283,7 @@ get_header();
                                 <p class="bolder-text">Formal vs. casual </p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>We interact with the client in an informal yet professional way. We write in words
-                                    that are easy to understand for everybody. </p>
+                                <p>We interact in an informal yet professional way. We use words that are easy to understand for everybody. </p>
                             </div>
                         </div>
                         <div class="row s-brandbook__content-voice">
@@ -294,8 +291,7 @@ get_header();
                                 <p class="bolder-text">Respectful vs. irreverent </p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>We write in a respectful manner. We use inclusive wordings, we don't downplay, and
-                                    treat everybody in a kind human and truthful manner.</p>
+                                <p>We write in a respectful manner. We are there for everybody. Therefore, we use inclusive wordings. We don't downplay and treat everybody in a kind, human and truthful manner. </p>
                             </div>
                         </div>
                         <div class="row s-brandbook__content-voice">
@@ -303,21 +299,18 @@ get_header();
                                 <p class="bolder-text">Enthusiastic vs. matter-of-fact</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>We are empathetic, but not too enthusiastic. We don't downplay, but also don't make
-                                    challenges bigger than they are. Through our content, we provide positivity and
-                                    hope. At the same time, we use science and research to back up our stories. </p>
+                                <p>We are empathetic, but not too enthusiastic. We don't downplay, but also don't make challenges bigger than they are. Through our content, we provide positivity and inspiration. We use science and research to back up our stories. </p>
                             </div>
                         </div>
                     </div>
                     <div class="s-brandbook__content-box">
-                        <p class="s-brandbook__title-secondary">Tone descriptors</p>
+                        <p class="s-brandbook__title-secondary">Our tone descriptors</p>
                         <div class="row s-brandbook__content-voice">
                             <div class="col-12 col-lg-6 text-lg-right">
                                 <p class="bolder-text">Positive</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Our tone is hopeful and positive. People feel optimistic after interacting with
-                                    us.</p>
+                                <p>Our tone is light and positive. People feel optimistic after interacting with us.</p>
                             </div>
                         </div>
                         <div class="row s-brandbook__content-voice">
@@ -333,8 +326,7 @@ get_header();
                                 <p class="bolder-text">Empathetic</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Our tone is empathic and compassionate. We don't downplay. We actively show that we
-                                    care and are there for you.</p>
+                                <p>Our tone is empathic and compassionate. We don't downplay any feelings. We actively show that we care.</p>
                             </div>
                         </div>
                         <div class="row s-brandbook__content-voice">
@@ -342,8 +334,7 @@ get_header();
                                 <p class="bolder-text">Trusting</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Our tone is professional and trustworthy. We back up our stories by science and
-                                    everything is reviewed by a psychologist.</p>
+                                <p>Our tone is professional and trustworthy. We back up our stories with science or the input from one of our psychologists.</p>
                             </div>
                         </div>
                         <div class="row s-brandbook__content-voice">
@@ -351,14 +342,14 @@ get_header();
                                 <p class="bolder-text">Personal</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Our tone is personal. People should feel like their talking to a friend.</p></div>
+                                <p>Our tone is personal. People should feel like they are talking to a friend.</p></div>
                         </div>
                         <div class="row s-brandbook__content-voice">
                             <div class="col-12 col-lg-6 text-lg-right">
                                 <p class="bolder-text">Human</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Our tone is respectful and inclusive. Everybody feels heard, seen, or understood.</p>
+                                <p>Our tone is respectful and inclusive. Everybody feels heard, seen, and understood.</p>
                             </div>
                         </div>
                     </div>
@@ -366,11 +357,10 @@ get_header();
                         <p class="s-brandbook__title-secondary">Our content is...</p>
                         <div class="row s-brandbook__content-voice">
                             <div class="col-12 col-lg-6 text-lg-right">
-                                <p class="bolder-text">Active</p>
+                                <p class="bolder-text">Active & vibrant</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Try to avoid an overabundance of verbs. Use active wordings. Alternate short and long
-                                    sentences and make your text 'sing'.</p>
+                                <p>We avoid an overabundance of verbs and use active wordings to keep the content vibrate and energetic. We keep our sentences short and to the point and alternate sentence length to make our texts ‘sing’.</p>
                             </div>
                         </div>
                         <div class="row s-brandbook__content-voice">
@@ -378,8 +368,7 @@ get_header();
                                 <p class="bolder-text">Motivating</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Inspire and motivate people with your story. After engaging with our content, people
-                                    feel like they want to get up and do the work that's needed.</p>
+                                <p>We want to inspire and motivate people with our stories. After engaging with our content, people feel like they want to get up and do the work that's needed. We provide them with tips, exercises, and insights to feel empowered and inspired. We normalise all mental health challenges so that nobody ever feels alone. Because they aren’t.</p>
                             </div>
                         </div>
                         <div class="row s-brandbook__content-voice">
@@ -387,8 +376,7 @@ get_header();
                                 <p class="bolder-text">Positive</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>People feel confident and optimistic after interacting with our content. We don't
-                                    talk about problems and dangers but about challenges and solutions. </p>
+                                <p>People feel confident and optimistic after interacting with our content. We don't talk about problems and dangers but about challenges and solutions. We focus on the positive instead of the negative, on the opportunities instead of the threats. This means we dive into the upside of things and the benefits of working on your mental well-being instead of the downside and what happens if you don’t.</p>
                             </div>
                         </div>
                     </div>
@@ -422,17 +410,16 @@ get_header();
                                 <p class="bolder-text">Don’ts</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Keep it informal, which means we use 'je/jij' and 'du'</p>
+                                <p>Keep it informal, which means we use 'je/jij', 'du' and 'tú'</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Use 'u' (NL) or 'Sie' (DE)</p>
+                                <p>Use 'u' (NL), 'Sie' (DE), 'Usted' (SP)</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>End each asset with positive note, solution, or CTA</p>
+                                <p>End each asset on a positive note, solution, or CTA</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>End any content asset without leaving someone feeling inspired, motivated or taken
-                                    any action</p>
+                                <p>End any content asset without leaving someone feeling inspired, motivated or taken any action</p>
                             </div>
                             <div class="col-12 col-lg-6">
                                 <p>Use emoticons every now and then</p>
@@ -441,45 +428,43 @@ get_header();
                                 <p>Overdo emoticons</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Write in an active way</p>
+                                <p>Write in an active way. It makes your text energetic and vibrant.</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Use too many verbs, it makes an article harder readible. </p>
+                                <p>Use too many verbs and write in a passive manner. It makes an article harder to read.</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Write inclusive and use genderneutral words, such as 'partner' 'psycholoog' (NL),
-                                    psycholog*innen (DE) )</p>
+                                <p>Write inclusive and use genderneutral words, such as 'partner' 'psycholoog' (NL), psycholog*innen (DE), psicólogo/a (SP)</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Use he/she, psychologe (NL), </p>
+                                <p>Use non-inclusive words. E.g. ‘He’ and ‘she’ or ‘husband and wife’ assume gender identification.</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Psychologist Margit Nooteboom</p>
+                                <p>Psychologist [name].</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>OpenUp psychologist, psychologist at OpenUp</p>
+                                <p>OpenUp-psychologist, OpenUp psychologist, mindfulness trainer, coach.</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Inspire and motive people to take action</p>
+                                <p>Inspire and motivate people to take action</p>
                             </div>
                             <div class="col-12 col-lg-6">
                                 <p>Use 'should' or 'must'. People must do nothing.</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Use positive words, such as 'challenge'</p>
+                                <p>Use positive words that lift people up (e.g. challenge instead of problem).</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                                <p>Use negative words, such as 'complaints' or 'problem'</p>
-                            </div>
-                            <div class="col-12 col-lg-6">
-                                <p>Psychologist [full name]</p>
-                            </div>
-                            <div class="col-12 col-lg-6">
-                                <p>OpenUp-psychologist, OpenUp psychologist, psychologist at OpenUp, mindfulness
-                                    trainer, coach</p>
+                                <p>Use negative words that way people down or focus on the negative outcomes. We don’t want people to feel frightened. We want them to feel empowered and inspired.</p>
                             </div>
 
                         </div>
+                    </div>
+                    <div class="s-brandbook__content-box">
+                        <h2 class="s-brandbook__title">Some examples</h2>
+                        <p>- Our OpenUp psychologists are helping you with your daily challenges → Our psychologists help you with your daily challenges</p>
+                        <p>- Our masterclasses are inspiring and will give you new insights → Our masterclasses inspire and spark eye-opening insights</p>
+                        <p>- Being a working parent can be as physically draining as it is mentally. However, applying some basic health principles to everyday life can be a lifesaver. → Being a working parent comes with challenges, small and big. These basic principles make the difference you need in your everyday life.</p>
                     </div>
                 </div>
                 <div class="s-brandbook__content">
